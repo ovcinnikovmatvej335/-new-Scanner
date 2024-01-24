@@ -1,0 +1,3 @@
+   public static void main(String[] args) {
+        GitRepository repo = new GitRepository();
+        Scanner scanner = new Scanner(System.in);
